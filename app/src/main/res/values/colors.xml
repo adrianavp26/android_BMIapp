@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="background">#0a0e21</color>
+    <color name="boton">#4c4f5e</color>
+    <color name="action">#512da8</color>
+    <color name="cont">#1d1e33</color>
+    <color name="contActiu">#313359</color>
+    <color name="act">#323357</color>
+    <color name="subtext">#7b7c87</color>
+
+    <color name="bajo">#FFC107</color>
+    <color name="normal">#4CAF50</color>
+    <color name="sobrepeso">#FF9800</color>
+    <color name="obesidad">#AD1028</color>
+</resources>

@@ -1,0 +1,40 @@
+<resources>
+    <string name="app_name">Act03</string>
+
+    <string name="tituloPrincipal">B &amp; O BMI CALCULATOR</string>
+    <string name="male">MALE</string>
+    <string name="female">FEMALE</string>
+    <string name="height">HEIGHT</string>
+    <string name="baseAltura">120</string>
+    <string name="cm">cm</string>
+    <string name="weight">WEIGHT</string>
+    <string name="baseWeight">60</string>
+    <string name="age">AGE</string>
+    <string name="baseAge">18</string>
+    <string name="calculate">CALCULATE</string>
+    <string name="restar">restar</string>
+    <string name="sumar">sumar</string>
+
+
+    <string name="volver">volver</string>
+    <string name="tituloResultado">BMI Resultado</string>
+    <string name="resultado">Resultado</string>
+    <string name="tipoResultado">NORMAL</string>
+    <string name="baseResultado">20</string>
+    <string name="baseDescripcion">descripción</string>
+    <string name="recalcular">RE-CALCULATE</string>
+
+    <string name="titulo_bajo">Bajo Peso</string>
+    <string name="desc_bajo">Tu peso es inferior para tu altura, peso y edad</string>
+
+    <string name="titulo_normal">Normal</string>
+    <string name="desc_normal">Tu peso es adecuado para tu altura, peso y edad</string>
+
+    <string name="titulo_sobrepeso">Sobrepeso</string>
+    <string name="desc_sobrepeso">Tu peso esta por encima de lo que seria adecuado para tu altura, peso y edad</string>
+
+    <string name="titulo_obesidad">Obesidad</string>
+    <string name="desc_obesidad">Tu peso esta demasiado por encima de lo que seria adecuado para tu altura, peso y edad</string>
+
+    <string name="error">error</string>
+</resources>
